@@ -10,9 +10,9 @@ public class Array {
         int[] ints = new int[50];
 
         for (int i = 0; i < ints.length; i++) {
-            ints[i]= r.nextInt(10)*10;;
+            ints[i]= r.nextInt(10)*10;
         }
         System.out.println(Arrays.toString(ints));
-        System.out.println("aaaa");
+        System.out.println(789);
     }
 }
