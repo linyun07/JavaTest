@@ -13,6 +13,9 @@ public class Array {
             ints[i]= r.nextInt(10)*10;
         }
         System.out.println(Arrays.toString(ints));
-        System.out.println(789+"llll");
+        System.out.println(789);
+        System.out.println("push" + 1);
+        System.out.println(789+"linyun");
+        System.out.println("琳韵");
     }
 }
