@@ -17,6 +17,6 @@ public class Array {
         System.out.println("push" + 1);
         System.out.println(789+"linyun");
         System.out.println("琳韵");
-         System.out.println("pull");
+         System.out.println("码云——pull");
     }
 }
